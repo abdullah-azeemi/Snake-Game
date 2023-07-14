@@ -7,5 +7,5 @@ Controls for 1st Player : Conventional Arrow Keys
   --         3rd Player : 8 5 4 6 (Numerical KeyPad)
   --         4th Player : I J K L
 
---------------- Make shure to convert these mp3 audios to .wav and configure your relative IDEs.
+--------------- Make sure to convert these mp3 audios to .wav and configure your relative IDEs.
 [move,eat,intro.zip](https://github.com/abdullah-azeemi/Snake-Game/files/12052866/move.eat.intro.zip)
